@@ -1,0 +1,11 @@
+C:\Users\nicol\Desktop\github\GithubMas21815\practicaUD10_nico\Proyecto1\Proyecto1\bin\Debug\Proyecto1.exe.config
+C:\Users\nicol\Desktop\github\GithubMas21815\practicaUD10_nico\Proyecto1\Proyecto1\bin\Debug\Proyecto1.exe
+C:\Users\nicol\Desktop\github\GithubMas21815\practicaUD10_nico\Proyecto1\Proyecto1\bin\Debug\Proyecto1.pdb
+C:\Users\nicol\Desktop\github\GithubMas21815\practicaUD10_nico\Proyecto1\Proyecto1\obj\Debug\Proyecto1.csproj.AssemblyReference.cache
+C:\Users\nicol\Desktop\github\GithubMas21815\practicaUD10_nico\Proyecto1\Proyecto1\obj\Debug\Proyecto1.csproj.SuggestedBindingRedirects.cache
+C:\Users\nicol\Desktop\github\GithubMas21815\practicaUD10_nico\Proyecto1\Proyecto1\obj\Debug\Proyecto1.Form1.resources
+C:\Users\nicol\Desktop\github\GithubMas21815\practicaUD10_nico\Proyecto1\Proyecto1\obj\Debug\Proyecto1.Properties.Resources.resources
+C:\Users\nicol\Desktop\github\GithubMas21815\practicaUD10_nico\Proyecto1\Proyecto1\obj\Debug\Proyecto1.csproj.GenerateResource.cache
+C:\Users\nicol\Desktop\github\GithubMas21815\practicaUD10_nico\Proyecto1\Proyecto1\obj\Debug\Proyecto1.csproj.CoreCompileInputs.cache
+C:\Users\nicol\Desktop\github\GithubMas21815\practicaUD10_nico\Proyecto1\Proyecto1\obj\Debug\Proyecto1.exe
+C:\Users\nicol\Desktop\github\GithubMas21815\practicaUD10_nico\Proyecto1\Proyecto1\obj\Debug\Proyecto1.pdb

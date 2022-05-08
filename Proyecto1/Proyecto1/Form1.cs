@@ -22,5 +22,9 @@ namespace Proyecto1
 
         }
 
+        private void button1_Click(object sender, EventArgs e)
+        {
+            textBox1.Text += (tNombre.Text +" "+ tApellidos.Text +" "+ tTelefono.Text+" \n");
+        }
     }
 }
